@@ -33,22 +33,12 @@ The dataset comprises historical stock data for Tesla, Inc. from June 29, 2010, 
 - Machine learning models demonstrated better adaptability to changing market conditions
 
 ## Repository Structure
-- `data/`: Contains the dataset and data preparation scripts
-- `technical_analysis/`: Implementations of technical trading rules
-- `machine_learning/`: LSTM and SVM model implementations
-- `analysis/`: Scripts for performance evaluation and statistical tests
-- `results/`: Outputs, figures, and detailed result analysis
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and visualizations
-
-## Usage
-[Provide instructions on how to run your code, including any dependencies]
+- `report/`: Contains the full dissertation in PDF
+- `code/`: Jupyter notebook containing all code
 
 ## Contributors
 - Eshaq Rahmani
 
-## License
-[Specify the license for your project]
-
 ## Acknowledgments
 - Supervisor: Anqi Liu, Cardiff University
-- [Any other acknowledgments]
+
